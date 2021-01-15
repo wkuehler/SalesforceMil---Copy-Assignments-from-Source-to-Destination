@@ -8,7 +8,7 @@ Looking at the source opportunity, you can see that there are 3 assignments:
 
 ![image](https://user-images.githubusercontent.com/1509672/104764220-1446ce80-5735-11eb-8c45-55b6d16f4eca.png)
 
-From the destination opportunity, you can see that there are no current assignments.  If the same group of resources are going to be working on he destination opportunity, we can use this flow to copy them.  From the destination opportunity:
+From the destination opportunity, you can see that there are no current assignments.  If the same group of resources are going to be working on the destination opportunity, we can use this flow to copy them.  From the destination opportunity:
 
 ![image](https://user-images.githubusercontent.com/1509672/104764382-54a64c80-5735-11eb-9857-1dac0eaa77ad.png)
 
